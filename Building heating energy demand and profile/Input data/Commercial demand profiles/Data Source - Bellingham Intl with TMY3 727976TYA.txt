@@ -1,0 +1,5 @@
+Attribution:
+National Renewable Energy Laboratory. (2014). Commercial and Residential Hourly Load Profiles for all TMY3 Locations in the United States [data set].  Retrieved from https://dx.doi.org/10.25984/1788456.
+
+The data files used here (specific to Bellingham Intl) are available at:
+https://openei.org/datasets/files/961/pub/COMMERCIAL_LOAD_DATA_E_PLUS_OUTPUT/USA_WA_Bellingham.Intl.AP.727976_TMY3/
